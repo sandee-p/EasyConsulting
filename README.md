@@ -37,18 +37,5 @@
  
 
 
-What you get here:
-* implement responsive ui with first loading including backend
-* * MUI provides  styling and building Material-UI components quickly and easily
-* Most of the UI created react-bootstrap as well row css.
-* Few cases used MUI but in future i will add more MUI features here.:smile:
-* Responsive landing page.
-* user can give review, can purchase a product and see there status.
-* there most interting part is Login Page. this is amazing design and authentication system.
-* job portal site.
-* all the input are have to validate.
-* authenttication system(login, logout, signup, reset email, OTP, subscribe).
-* payement system(here used only Stripe in near will add more payment gateway)
-* Deffrent for Dasboard(Admin and User)
-* in dashboard Admin has all kinds of access(CRUD operations, add admin, manage orders and many more)
+
 
